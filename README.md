@@ -23,7 +23,7 @@
 ## Hi! Nice to meet you!
 
 <!-- 个人简介 -->
-- 👋 Hi, I’m @isliujiao
+- 👋 Hi, I’m isliujiao
 - 👀 I ’m interest in Java, server development, database, computer network, operating system, AI, etc.
 - 📫 How to reach me? Email: isliujiao@163.com
 <!--
