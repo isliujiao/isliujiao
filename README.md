@@ -10,10 +10,10 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
-    <a href=""><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-    <a href=""><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href=""><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-    <a href=""><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
+    <a href="https://www.yuque.com/isliujiao"><img src="https://img.shields.io/badge/Website-语雀-green" /></a>&emsp;
+    <a href="https://space.bilibili.com/404564748"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://blog.csdn.net/jinjinbu"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+    <a href="https://www.zhihu.com/people/123-52-71-9-23"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
 <!--     <img src="https://komarev.com/ghpvc/?username=isliujiao&label=Views&color=0e75b6&style=flat" alt="访问量统计" /> -->
   </div>
