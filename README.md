@@ -1,3 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Awesome GitHub Page</title>
+    <!-- 这里放置<link>标签 -->
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
 <div align="center">
   
   <!-- dynamic typing effect 动态打字效果 -->
@@ -30,6 +40,8 @@
 - 🌱 
 - 💞️ 
 -->
+
+
 <style>
   table {
     width: 100%;
@@ -141,5 +153,5 @@
     <td>安全等保</td>
   </tr>
 </table>
-
-
+</body>
+</html>
