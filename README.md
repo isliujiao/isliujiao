@@ -119,3 +119,26 @@
     <td><a href="#">安全等保</a></td>
   </tr>
 </table>
+<style>
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 800px; /* 最大宽度为 800px */
+    position: relative; /* 相对定位 */
+  }
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  th {
+    background-color: #f2f2f2;
+  }
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+</style>
