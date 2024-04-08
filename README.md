@@ -30,7 +30,28 @@
 - 🌱 
 - 💞️ 
 -->
-
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  th {
+    background-color: #f2f2f2;
+  }
+  td a {
+    display: block;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+</style>
 <table>
   <tr>
     <th>核心</th>    <td><a href="#">容器</a></td>
@@ -119,26 +140,4 @@
     <td><a href="#">安全等保</a></td>
   </tr>
 </table>
-<style>
-  table {
-    border-collapse: collapse;
-    width: 100%;
-    max-width: 800px; /* 最大宽度为 800px */
-    position: relative; /* 相对定位 */
-  }
-  th, td {
-    border: 1px solid #ddd;
-    padding: 8px;
-    text-align: left;
-  }
-  th {
-    background-color: #f2f2f2;
-  }
-  a {
-    text-decoration: none;
-    color: inherit;
-  }
-  a:hover {
-    text-decoration: underline;
-  }
-</style>
+
