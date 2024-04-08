@@ -4,8 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Awesome GitHub Page</title>
-    <!-- 这里放置<link>标签 -->
-    <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
 <div align="center">
@@ -41,31 +39,7 @@
 - 💞️ 
 -->
 
-
-<style>
-  table {
-    width: 100%;
-    border-collapse: collapse;
-    margin-bottom: 20px;
-  }
-  th, td {
-    border: 1px solid #ddd;
-    padding: 8px;
-    text-align: left;
-  }
-  th {
-    background-color: #f2f2f2;
-  }
-  td a {
-    display: block;
-    width: 100%;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-  }
-</style>
-
-<table>
+<table style="width:100%; border-collapse: collapse;">
   <tr>
     <th>核心</th>    <td>容器</td>
     <td>事件</td>    <td>资源访问</td>
