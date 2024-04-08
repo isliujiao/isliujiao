@@ -34,32 +34,20 @@
 
 <table>
   <tr>
-    <th>核心</th>
-    <th>容器</th>
-    <th>事件</th>
-    <th>资源访问</th>
-    <th>国际化</th>
-    <th>数据校验</th>
-    <th>类型转换</th>
-    <th>表达式</th>
-    <th>AOP</th>
-    <th>AOT</th>
-    <th>单元测试</th>
-    <th>HTTP客户端</th>
+    <th>核心</th>    <th>容器</th>
+    <th>事件</th>    <th>资源访问</th>
+    <th>国际化</th>    <th>数据校验</th>
+    <th>类型转换</th>    <th>表达式</th>
+    <th>AOP</th>    <th>AOT</th>
+    <th>单元测试</th>    <th>HTTP客户端</th>
   </tr>
   <tr>
-    <td></td>
-    <td>监控</td>
-    <td>指标</td>
-    <td>多环境</td>
-    <td>镜像</td>
-    <td>外部配置</td>
-    <td>线程池</td>
-    <td>密钥</td>
-    <td>SSL</td>
-    <td>定时</td>
-    <td></td>
-    <td></td>
+    <td></td>    <td>监控</td>
+    <td>指标</td>    <td>多环境</td>
+    <td>镜像</td>    <td>外部配置</td>
+    <td>线程池</td>    <td>密钥</td>
+    <td>SSL</td>    <td>定时</td>
+    <td></td>    <td></td>
   </tr>
   <tr>
     <td>数据访问</td>
@@ -120,15 +108,15 @@
   <tr>
     <td>生态</td>
     <td>K8s</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Docker</td>
+    <td>三方API</td>
+    <td>函数计算</td>
+    <td>对象存储</td>
+    <td>云传输</td>
+    <td>大数据</td>
+    <td>AI</td>
+    <td>数据中心</td>
+    <td>安全等保</td>
     <td></td>
   </tr>
 </table>
