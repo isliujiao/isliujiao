@@ -42,7 +42,7 @@
     <th>单元测试</th>    <th>HTTP客户端</th>
   </tr>
   <tr>
-    <td></td>    <td>监控</td>
+    <td>数据访问</td>    <td>监控</td>
     <td>指标</td>    <td>多环境</td>
     <td>镜像</td>    <td>外部配置</td>
     <td>线程池</td>    <td>密钥</td>
@@ -50,7 +50,7 @@
     <td></td>    <td></td>
   </tr>
   <tr>
-    <td>数据访问</td>
+    <td></td>
     <td>事务</td>
     <td>Dao</td>
     <td>连接池</td>
@@ -109,6 +109,7 @@
     <td>生态</td>
     <td>K8s</td>
     <td>Docker</td>
+    <td>云平台</td>
     <td>三方API</td>
     <td>函数计算</td>
     <td>对象存储</td>
@@ -117,7 +118,6 @@
     <td>AI</td>
     <td>数据中心</td>
     <td>安全等保</td>
-    <td></td>
   </tr>
 </table>
 
