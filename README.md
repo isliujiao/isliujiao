@@ -112,6 +112,20 @@
     <td>链路追踪</td>
     <td>分布式总线</td>
   </tr>
+   <tr>
+    <th>中间件</th>
+    <td>Redis</td>
+    <td><a href="https://www.yuque.com/isliujiao/java/es">ES</a></td>
+    <td><a href="https://www.yuque.com/isliujiao/java/rabbitmq">RabbitMQ</a></td>
+    <td><a href="https://www.yuque.com/isliujiao/java/netty">Netty</a></td>
+    <td>Kafka</td>
+    <td>Pulsar</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
   <tr>
     <th>生态</th>
     <td>K8s</td>
