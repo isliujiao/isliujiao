@@ -49,7 +49,7 @@
     <td>单元测试</td>    <td>HTTP客户端</td>
   </tr>
   <tr>
-    <th>数据访问</th>    <td>监控</td>
+    <th></th>    <td>监控</td>
     <td>指标</td>    <td>多环境</td>
     <td>镜像</td>    <td>外部配置</td>
     <td>线程池</td>    <td>密钥</td>
@@ -57,7 +57,7 @@
     <td></td>    <td></td>
   </tr>
   <tr>
-    <th></th>
+    <th>数据访问</th>
     <td>事务</td>
     <td>Dao</td>
     <td>连接池</td>
