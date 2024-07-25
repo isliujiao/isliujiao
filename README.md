@@ -9,7 +9,7 @@
   
   <!-- dynamic typing effect 动态打字效果 -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello~++Welcome+to+my+GitHhub" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello~++Welcome+to+my+GitHub" alt="Typing SVG" />
   </a>
 
   <!-- knock code pictures 敲代码的图片 -->
